@@ -1,5 +1,12 @@
 header{
     background-color: aqua 7, 7, 146;
     color: blueviolet;
-    text-align: center;
+    text-align: center;/* Centraliza */
+    padding: 25px;/* espaço interno */
+    margin: 0 auto;
+}
+
+main{
+    background-color: aliceblue;
+    color: rgb(7, 7, 146);
 }
